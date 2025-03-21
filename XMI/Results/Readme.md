@@ -1,0 +1,2 @@
+These are the resulting extracted values of ReH, ReE, ReHt and the DVCS cross-section using the XMI extraction method at LO and LT using the BKM10 Formulation. In this approximation the DVCS cross-section is constant in the azimuthal angle. In this extraction there were not included twist-2 terms arrising from twist-3 terms (No Feff terms are included). 
+The values were extracted for the available unpolarized HallA and HallB DVCS datasets.
