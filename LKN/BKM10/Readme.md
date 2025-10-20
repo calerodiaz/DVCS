@@ -1,0 +1,1 @@
+Helicity dependent BKM10 formulation. Beam helicity $lambda$ is an input parameter. Target is considered unpolarized ($\Lambda$ = 0).
